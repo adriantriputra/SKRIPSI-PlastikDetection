@@ -1,0 +1,38 @@
+{
+  "daur_ulang": [
+    {
+      "jenis": "Jenis 1 PET",
+      "deskripsi": "Sampah plastik jenis 1 PET menunjukkan bahwa plastik terbuat dari bahan polyethylene terephtalate. Jenis plastik ini biasanya digunakan untuk kemasan makanan dan minuman, seperti botol minum kemasan, botol soda, botol minyak, botol saus, wadah selai, kotak obat, hingga sisir.",
+      "cara": "Sampah plastik jenis 1 PET hanya bisa digunakan sekali saja. Apabila ingin digunakan kembali, disarankan menggunakannya untuk keperluan lain seperti membuat kerajinan tangan sederhana. Contoh kerajinan tangan sederhana yang dapat dibuat dengan sampah plastik jenis 1 PET yaitu pot bunga sederhana, celengan, tempat pensil, dan sebagainya."
+    },
+    {
+      "jenis": "Jenis 2 HDPE",
+      "deskripsi": "Sampah plastik jenis 2 HDPE menunjukkan bahwa plastik terbuat dari bahan high density polyethylene. Jenis plastik ini biasanya digunakan untuk galon air minum, botol susu, botol sabun, botol sampo, dan kemasan tebal lainnya. Jenis sampah plastik ini cukup aman apabila ingin digunakan kembali, dan juga merupakan jenis yang paling sering didaur ulang dengan nilai ekonomi yang baik serta proses daur ulang yang sederhana.",
+      "cara": "Sikap daur ulang yang dapat diterapkan pada plastik jenis ini adalah penggunaan kembali (reuse) dan pembuatan barang dengan fungsi lain, seperti membuat wadah untuk barang lain seperti alat tulis dan kuas kosmetik dengan memotong bagian atas plastik, dan lain sebagainya."
+    },
+    {
+      "jenis": "Jenis 4 LDPE",
+      "deskripsi": "Sampah plastik jenis 4 LDPE menunjukkan bahwa plastik terbuat dari bahan low density polyethylene. Jenis plastik ini biasanya digunakan untuk kantong plastik (kresek), kantong sampah plastik, tas belanja, hingga pembungkus makanan. Jenis sampah plastik ini bersifat elastis, memiliki daya tahan yang lama, dan dapat digunakan berulang kali.",
+      "cara": "Sikap daur ulang yang dapat diterapkan pada plastik jenis ini adalah penggunaan kembali (reuse) sebagai wadah pelapis tempat sampah, mengubah kantong kresek menjadi tali dengan cara memotong-motong plastik tersebut, serta membuat kerajinan tangan."
+    },
+    {
+      "jenis": "Jenis 5 PP",
+      "deskripsi": "Sampah plastik jenis 5 PP menunjukkan bahwa plastik terbuat dari bahan polypropylene. Jenis plastik ini biasanya digunakan untuk kemasan makanan/minuman, botol sirup, kotak yoghurt, sedotan plastik, selotip, dan tali berbahan plastik. Plastik jenis ini baik digunakan sebagai tempat makanan/minuman karena terbuat dari polypropylene yang sangat kuat dan aman digunakan di suhu yang panas.",
+      "cara": "Karena sifat dari plastik jenis 5 PP yang kuat dan tahan lama, plastik ini menjadi sulit untuk didaur ulang. Sehingga sikap daur ulang yang tepat adalah dengan menerapkan pengurangan penggunaan (reduce) dan penggunaan kembali (reuse). Selain itu, sedotan plastik yang berbahan PP juga dapat diubah menjadi kerajinan tangan seperti keranjang penyimpanan, gantungan kunci, dan lain sebagainya."
+    }
+  ],
+  "cara_pembuangan": [
+    {
+      "langkah": "Koleksi",
+      "deskripsi": "Pada tahap ini, material atau sampah plastik dikumpulkan menjadi satu. Di tahap ini biasanya label pada kemasan plastik dilepas dan dipisahkan dari sampah plastiknya. Dengan memisahkan sampah plastik dengan sampah rumah tangga lainnya, proses berikutnya akan menjadi lebih mudah dan efektif."
+    },
+    {
+      "langkah": "Sortir",
+      "deskripsi": "Pada tahap ini sampah plastik akan disortir lebih detail, biasanya berdasarkan bahan pembuatan plastik, warna plastik, kode resin (jenis 1 hingga jenis 7), atau cara pembuatan plastiknya. Teknik penyortiran sampah plastik berbeda di setiap bank sampah, jadi pastikan dengan bank sampah terdekat mengenai cara penyortiran sampah plastik."
+    },
+    {
+      "langkah": "Pembuangan/Penyerahan sampah",
+      "deskripsi": "Sampah yang telah dikoleksi dan disortir kemudian dibuang ke tempat sampah yang telah didedikasikan untuk membuang sampah plastik (kotak sampah anorganik berwarna kuning) atau diserahkan langsung ke bank sampah. Bank sampah akan melanjutkan proses daur ulang plastik dari pencucian hingga menjadi pelet plastik yang dapat digunakan kembali."
+    }
+  ]
+}

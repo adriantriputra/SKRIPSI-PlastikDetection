@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PlasticDetection" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/light_green</item>
+        <item name="colorPrimaryDark">#304b3f</item>
+    </style>
+
+    <style name="Theme.PlasticDetection" parent="Base.Theme.PlasticDetection">
+        <item name="android:textColor">#304b3f</item>
+    </style>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- Set the splash screen background, animated icon, and animation
+        duration. -->
+        <item name="windowSplashScreenBackground">@color/light_green</item>
+        <item name="windowSplashScreenIconBackgroundColor">@color/light_green</item>
+
+        <!-- Use windowSplashScreenAnimatedIcon to add a drawable or an animated
+             drawable. One of these is required. -->
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+
+        <!-- Required for animated icons. -->
+        <!--        <item name="windowSplashScreenAnimationDuration">200</item>-->
+
+        <!-- Set the theme of the Activity that directly follows your splash
+        screen. This is required. -->
+        <item name="postSplashScreenTheme">@style/Theme.PlasticDetection</item>
+    </style>
+
+
+</resources>

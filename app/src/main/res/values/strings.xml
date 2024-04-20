@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PlasticDetection</string>
+    <string name="klasifikasi_jenis_plastik">Klasifikasi Jenis Plastik</string>
+    <string name="galeri">Galeri</string>
+    <string name="kamera">Kamera</string>
+    <string name="alert">SAMPAH INI DAPAT DIDAUR ULANG</string>
+    <string name="hasil_klasifikasi">Hasil Klasifikasi:</string>
+    <string name="klasifikasi_name">Jenis 1 PET</string>
+    <string name="confidence">Confidence:</string>
+    <string name="confidence_num">0.87789292565</string>
+    <string name="pengolahan">Pengolahan</string>
+    <string name="title_pengolahan">Pengolahan Sampah Plastik</string>
+    <string name="daur_ulang">Daur Ulang</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <string name="title_cara_membuang">Cara Membuang</string>
+    <string name="sampah_ini_tidak_dapat_didaur_ulang">SAMPAH INI TIDAK DAPAT DIDAUR ULANG</string>
+    <string name="sampah_ini_dapat_didaur_ulang">SAMPAH INI DAPAT DIDAUR ULANG</string>
+</resources>
